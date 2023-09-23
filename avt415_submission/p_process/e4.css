@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	margin-left: 60px;
+}
+
+h1 {
+  .example {
+  font-family: "marlide-display-variable",sans-serif;
+  font-variation-settings: 'wght' 700;
+}
+}
+
+h2 {
+	font-size: 18px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+.summary {
+	text-decoration-line: underline;
+}
