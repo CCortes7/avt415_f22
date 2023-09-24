@@ -4,6 +4,12 @@ body {
 	margin-left: 60px;
 }
 
+h1 {
+  .example {
+  font-family: "marlide-display-variable",sans-serif;
+  font-variation-settings: 'wght' 700;
+}
+}
 
 h2 {
 	font-size: 18px;
